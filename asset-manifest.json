@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DavidYunGitHub/recipe-project.git/static/css/main.3283d3fb.chunk.css",
+    "main.js": "/DavidYunGitHub/recipe-project.git/static/js/main.f294e26e.chunk.js",
+    "main.js.map": "/DavidYunGitHub/recipe-project.git/static/js/main.f294e26e.chunk.js.map",
+    "runtime-main.js": "/DavidYunGitHub/recipe-project.git/static/js/runtime-main.25c892f1.js",
+    "runtime-main.js.map": "/DavidYunGitHub/recipe-project.git/static/js/runtime-main.25c892f1.js.map",
+    "static/js/2.753095d4.chunk.js": "/DavidYunGitHub/recipe-project.git/static/js/2.753095d4.chunk.js",
+    "static/js/2.753095d4.chunk.js.map": "/DavidYunGitHub/recipe-project.git/static/js/2.753095d4.chunk.js.map",
+    "index.html": "/DavidYunGitHub/recipe-project.git/index.html",
+    "precache-manifest.8d535fbc30cd4497260a53750346af6b.js": "/DavidYunGitHub/recipe-project.git/precache-manifest.8d535fbc30cd4497260a53750346af6b.js",
+    "service-worker.js": "/DavidYunGitHub/recipe-project.git/service-worker.js",
+    "static/css/main.3283d3fb.chunk.css.map": "/DavidYunGitHub/recipe-project.git/static/css/main.3283d3fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25c892f1.js",
+    "static/js/2.753095d4.chunk.js",
+    "static/css/main.3283d3fb.chunk.css",
+    "static/js/main.f294e26e.chunk.js"
+  ]
+}
