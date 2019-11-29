@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DavidYunGitHub/recipe-project.git/static/css/main.3283d3fb.chunk.css",
-    "main.js": "/DavidYunGitHub/recipe-project.git/static/js/main.f294e26e.chunk.js",
-    "main.js.map": "/DavidYunGitHub/recipe-project.git/static/js/main.f294e26e.chunk.js.map",
-    "runtime-main.js": "/DavidYunGitHub/recipe-project.git/static/js/runtime-main.25c892f1.js",
-    "runtime-main.js.map": "/DavidYunGitHub/recipe-project.git/static/js/runtime-main.25c892f1.js.map",
-    "static/js/2.753095d4.chunk.js": "/DavidYunGitHub/recipe-project.git/static/js/2.753095d4.chunk.js",
-    "static/js/2.753095d4.chunk.js.map": "/DavidYunGitHub/recipe-project.git/static/js/2.753095d4.chunk.js.map",
-    "index.html": "/DavidYunGitHub/recipe-project.git/index.html",
-    "precache-manifest.8d535fbc30cd4497260a53750346af6b.js": "/DavidYunGitHub/recipe-project.git/precache-manifest.8d535fbc30cd4497260a53750346af6b.js",
-    "service-worker.js": "/DavidYunGitHub/recipe-project.git/service-worker.js",
-    "static/css/main.3283d3fb.chunk.css.map": "/DavidYunGitHub/recipe-project.git/static/css/main.3283d3fb.chunk.css.map"
+    "main.css": "/recipe-project/static/css/main.3283d3fb.chunk.css",
+    "main.js": "/recipe-project/static/js/main.6640f02a.chunk.js",
+    "main.js.map": "/recipe-project/static/js/main.6640f02a.chunk.js.map",
+    "runtime-main.js": "/recipe-project/static/js/runtime-main.c2d567b4.js",
+    "runtime-main.js.map": "/recipe-project/static/js/runtime-main.c2d567b4.js.map",
+    "static/js/2.753095d4.chunk.js": "/recipe-project/static/js/2.753095d4.chunk.js",
+    "static/js/2.753095d4.chunk.js.map": "/recipe-project/static/js/2.753095d4.chunk.js.map",
+    "index.html": "/recipe-project/index.html",
+    "precache-manifest.bad156c6434a5a5521729f74aa25c6a0.js": "/recipe-project/precache-manifest.bad156c6434a5a5521729f74aa25c6a0.js",
+    "service-worker.js": "/recipe-project/service-worker.js",
+    "static/css/main.3283d3fb.chunk.css.map": "/recipe-project/static/css/main.3283d3fb.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.25c892f1.js",
+    "static/js/runtime-main.c2d567b4.js",
     "static/js/2.753095d4.chunk.js",
     "static/css/main.3283d3fb.chunk.css",
-    "static/js/main.f294e26e.chunk.js"
+    "static/js/main.6640f02a.chunk.js"
   ]
 }
